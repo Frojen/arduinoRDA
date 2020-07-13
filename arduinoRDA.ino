@@ -70,6 +70,10 @@ void loop() {
           Serial.write(170); 
           Serial.write(170); 
           Serial.write(170); 
+          Serial.write(170); 
+          Serial.write(170); 
+          Serial.write(170); 
+          Serial.write(170); 
           printRow("RDS read", 0);           
         }    
       }
